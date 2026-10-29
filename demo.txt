@@ -9,6 +9,8 @@ practing git hub commands
 git commands
 
 git clone
+git branch --which branch we curretly showing
+git branch -r repo branch list
 git add .
 git commit -m ""
 git push
