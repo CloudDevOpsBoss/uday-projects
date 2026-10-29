@@ -3,3 +3,23 @@ Hello welcome to github
 get practice will handson topics
 
 get good HANDSON
+
+practing git hub commands
+
+git commands
+
+git clone
+git add .
+git commit -m ""
+git push
+
+Now order
+git pull
+git status
+
+git add .
+git status
+git commit -m ""
+git push
+
+
