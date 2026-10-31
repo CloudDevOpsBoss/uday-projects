@@ -24,4 +24,4 @@ git status
 git commit -m ""
 git push
 
-
+git Architecure--31/10/2026
