@@ -1,1 +1,5 @@
 today I explain git architure date 31-10-2026
+
+doubt by uday
+if have multiple files will use git add .
+if one file commit how we can add only that file
